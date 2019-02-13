@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="notification_array">
+        <item>Notification 1 </item>
+        <item>Notification 2</item>
+        <item>Notification 3</item>
+        <item>Notification 4</item>
+        <item>Notification 5</item>
+    </string-array>
+</resources>
